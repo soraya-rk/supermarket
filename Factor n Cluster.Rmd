@@ -12,7 +12,7 @@ library(psych)
 ```
 
 ```{r}
-superdata <- read.csv("./data/SUPERMARKET300.csv")
+superdata <- read.csv("SUPERMARKET300.csv")
 superdata_cri <- superdata[,9:20]
 ```
 
