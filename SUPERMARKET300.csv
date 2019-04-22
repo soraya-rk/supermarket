@@ -1,0 +1,301 @@
+"","custID","gender","status","age_group","edu","job","expense","complete","variation","layout","facility","friendly","delivery","clean","safety","price","location","parking","discount","age"
+"6",203,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.2,4.3,4.3,3.2,4.2,4.1,4.1,4,4.2,4.2,4.2,4.2,18
+"12",239,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.6,3.9,3.7,3.8,4.2,2.4,3,3.7,2.7,4.3,2.3,3.1,21
+"17",167,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.1,2.8,3,2.5,3.6,3.1,3.7,4.1,3.6,4.1,3.4,4.4,18
+"18",101,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Wiraswasta","Di atas Rp700.000,00",3.6,3.7,3.6,3.6,2.8,2.9,3.9,3.6,3.5,3.2,2.5,3.7,20
+"24",146,"Pria","Belum menikah",">18-28 tahun","Akademi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4.4,4.3,4.4,4.3,2.1,5,5,5,3.1,4.3,4.4,3.2,22
+"26",79,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.6,4.7,4.7,4.7,4.7,4.7,3,4.6,4.6,4.6,4.6,4.7,28
+"27",4,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.8,3,2.5,2.7,2.9,3.2,3,3.3,3,3.8,3.9,3.4,28
+"28",9,"Wanita","Belum menikah",">18-28 tahun","Akademi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.3,3.4,3.2,3.3,3.3,3.3,3.3,3.2,3.3,3.2,3.2,3.3,28
+"30",28,"Wanita","Menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",4,4.3,4,4.2,3.8,3,3.2,3.5,3.6,3.7,3.6,3.6,20
+"32",209,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4.7,3.8,4.4,4.4,3.2,4.3,4.5,3.9,3.9,4.4,4.5,4.5,25
+"35",263,"Wanita","Menikah",">18-28 tahun","perguruan Tinggi","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",3.8,4.4,4.6,4.7,4.8,4.2,4.2,4.2,4.3,4.6,4.4,4.7,26
+"36",5,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",3,3,2.3,2.2,2.8,3.4,3.1,3.1,3.7,3.2,3.2,3.2,18
+"37",186,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp300.000,00-Rp500.000,00",4.1,4.1,4.3,4,4.1,4.6,3.9,4,4.1,4.4,4.3,4.7,28
+"38",43,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4.2,4.6,4.4,4.6,4.7,4.1,4.5,4.1,3.9,4.5,4.3,4.6,27
+"39",217,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4.6,4.7,4.5,4.7,4.7,4.3,4.2,4.2,4.3,4.7,4.3,4.6,24
+"42",245,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.8,3.9,4,4,4,4.1,3.9,4,4.3,4.3,4.3,4.2,28
+"43",129,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.5,4.5,3.9,4.3,4.4,4.4,4.4,4.4,3.4,4.4,4.4,4.4,26
+"44",172,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.5,4.2,3.7,4.5,4.3,3.1,3,4.3,4.9,5,4.4,4.9,19
+"45",6,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",5,5,3.5,4,3.6,3.3,2.8,2.9,4.4,4.1,3.9,5,21
+"46",178,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta","Di atas Rp700.000,00",4.4,3.5,3,3,3.2,2.1,4.9,4,3.6,4.9,1,4.4,20
+"47",52,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.8,3.1,4.5,3.8,3.1,4.7,3.1,3,4.9,5,4.2,4.7,21
+"48",161,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4.4,2.5,3.8,2.4,4.5,1.9,3.2,4.2,2.5,2.3,3.6,4.3,23
+"49",51,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.2,4.8,3.8,3.9,3,2.3,1.3,1.3,2.9,3.5,2.8,2.5,18
+"50",59,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4.6,4.8,4.4,4.9,4.3,4.2,4.9,4.9,4.4,5,2.4,4.7,24
+"51",114,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",3,3.2,3.2,3.3,3.1,3.2,3.4,3.4,3.4,3.3,3.3,4.3,19
+"52",88,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta","Di atas Rp700.000,00",4.8,3.3,2.6,4.6,3.8,4.5,2.7,4.5,3.4,4.8,4.8,4.7,26
+"57",169,"Wanita","Belum menikah",">18-28 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",5,5,4.2,4.2,2.1,5,3.1,2.4,4.1,5,4.1,4.1,25
+"58",35,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.9,4.4,3.2,3.7,4,4.7,4.4,4.5,3.4,4.6,4.4,4.3,20
+"59",105,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",5,5,5,3.1,3.1,3.2,5,3.2,5,5,5,3.2,22
+"60",89,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",3.7,3.3,3.9,4.3,2.8,3.2,4.1,3.7,4.5,4.2,3.8,4.4,28
+"61",138,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.2,4.2,1.8,3.6,3.2,3.2,4.1,4,3.7,3.9,3.9,3.9,18
+"62",286,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.5,3.7,4.2,4,4.4,4.2,4,3.5,3.8,3.9,4,4.1,25
+"63",29,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",4.4,3.3,4.3,4.4,3.5,3.4,3.5,4.3,3.3,3.5,3,4.3,20
+"64",267,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4.7,4.5,3.5,4.6,2.9,3.7,4.6,4.3,4.6,4.8,4.4,4.7,21
+"65",80,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4.9,4.7,3.1,4.7,2.9,4.2,4.5,4.7,3.5,4.7,4.8,4.9,23
+"66",72,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.6,4.5,3.2,3.3,4.4,3.4,3.5,3.6,4.4,4.5,1.7,4.5,28
+"67",143,"Pria","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.7,4.7,3.1,3.2,4.8,3.1,3.4,3.6,4.5,4.5,3.1,4.7,22
+"68",221,"Wanita","Belum menikah",">18-28 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.9,4.3,3.9,4.8,3.8,4.3,3.1,4.9,4.3,4.9,4.9,4.9,28
+"69",23,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.2,4.3,3.8,3.9,3.8,3.2,3.4,4,4,4,3.5,4.1,28
+"71",78,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp500.000,00-Rp700.000,00",3.8,5,3.3,3.7,3.8,4.2,3.7,3.7,4.1,3.3,3.7,4.2,20
+"72",30,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4,4.4,3.1,3,3.1,4,3.8,4.5,4.4,4.3,4.4,3.9,21
+"73",126,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",4.8,4.7,4.7,4.7,1.5,3.4,4.7,4.7,3.1,4.2,4.8,3.2,19
+"74",294,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.4,4.4,3.6,3.6,3.3,3.3,4,3.5,3.9,4.4,4.4,4.4,24
+"75",32,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Wiraswasta",">Rp100.000,00-Rp300.000,00",3.3,3.2,3.1,4.2,3.1,3.3,3.4,3.4,3.4,3.3,3.3,4.4,25
+"76",218,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.4,2.6,2.5,3.5,2.7,2.7,3.2,3.3,3.4,3.8,2.9,3.8,24
+"77",39,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","lain-lain(pensiunan,petani)",">Rp100.000,00-Rp300.000,00",5,5,3.9,5,4.3,5,2.9,4.4,4.7,5,5,5,27
+"78",240,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",5,5,4.5,2,1,2,1,4.4,4,4.6,5,5,19
+"79",20,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.9,4.2,3,4.9,4.3,4.9,4.2,4.9,3.1,4.3,4.9,4.9,28
+"80",223,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.8,4.7,3.3,4.5,3.1,4.1,3.4,4,4.5,4.5,3.9,4.3,28
+"94",243,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp300.000,00-Rp500.000,00",5,4.2,3,3.9,3.1,2,3.1,3.1,2.1,4.1,4.2,2,23
+"95",293,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4.2,4.2,4.6,4.7,3.9,3.7,3.7,4.3,3.7,3.8,3.8,2.8,24
+"96",7,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4.4,4.4,3.4,3.4,2.7,1.7,4.4,4.1,4.6,4.4,1.8,3.3,23
+"106",200,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",2.4,2.8,4.1,2.2,4.2,3.5,4.1,3.7,4.1,3.5,4.2,4.1,19
+"112",159,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",1.8,2.4,3.5,2.8,4.2,1.8,3,3.4,2.6,3.6,2.3,3,24
+"117",67,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",1.3,1.3,2.8,1.5,3.6,2.5,3.7,3.8,3.5,3.4,3.4,4.3,22
+"118",112,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Wiraswasta","Di atas Rp700.000,00",1.8,2.2,3.4,2.6,2.8,2.3,3.9,3.3,3.4,2.5,2.5,3.6,27
+"124",193,"Pria","Belum menikah",">18-28 tahun","Akademi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.6,2.8,4.2,3.3,2.1,4.4,5,4.7,3,3.6,4.4,3.1,22
+"126",177,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.8,3.2,4.5,3.7,4.7,4.1,3,4.3,4.5,3.9,4.6,4.6,19
+"127",133,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",1,1.5,2.3,1.7,2.9,2.6,3,3,2.9,3.1,3.9,3.3,21
+"128",236,"Wanita","Belum menikah",">18-28 tahun","Akademi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",1.5,1.9,3,2.3,3.3,2.7,3.3,2.9,3.2,2.5,3.2,3.2,18
+"130",42,"Wanita","Menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",2.2,2.8,3.8,3.2,3.8,2.4,3.2,3.2,3.5,3,3.6,3.5,26
+"132",128,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.9,2.3,4.2,3.4,3.2,3.7,4.5,3.6,3.8,3.7,4.5,4.4,18
+"135",48,"Wanita","Menikah",">18-28 tahun","perguruan Tinggi","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",2,2.9,4.4,3.7,4.8,3.6,4.2,3.9,4.2,3.9,4.4,4.6,24
+"136",90,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",1.2,1.5,2.1,1.2,2.8,2.8,3.1,2.8,3.6,2.5,3.2,3.1,28
+"137",231,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp300.000,00-Rp500.000,00",2.3,2.6,4.1,3,4.1,4,3.9,3.7,4,3.7,4.3,4.6,24
+"138",273,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.4,3.1,4.2,3.6,4.7,3.5,4.5,3.8,3.8,3.8,4.3,4.5,26
+"139",174,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.8,3.2,4.3,3.7,4.7,3.7,4.2,3.9,4.2,4,4.3,4.5,21
+"142",115,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",2,2.4,3.8,3,4,3.5,3.9,3.7,4.2,3.6,4.3,4.1,19
+"143",22,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",2.7,3,3.7,3.3,4.4,3.8,4.4,4.1,3.3,3.7,4.4,4.3,23
+"144",41,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.7,2.7,3.5,3.5,4.3,2.5,3,4,4.8,4.3,4.4,4.8,24
+"145",259,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.2,3.5,3.3,3,3.6,2.7,2.8,2.6,4.3,3.4,3.9,4.9,21
+"146",289,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta","Di atas Rp700.000,00",2.6,2,2.8,2,3.2,1.5,4.9,3.7,3.5,4.2,1,4.3,20
+"147",262,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3,1.6,4.3,2.8,3.1,4.1,3.1,2.7,4.8,4.3,4.2,4.6,24
+"148",166,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.6,1,3.6,1.4,4.5,1.3,3.2,3.9,2.4,1.6,3.6,4.2,21
+"149",17,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.4,3.3,3.6,2.9,3,1.7,1.3,1,2.8,2.8,2.8,2.4,19
+"150",130,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.8,3.3,4.2,3.9,4.3,3.6,4.9,4.6,4.3,4.3,2.4,4.6,20
+"151",188,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",1.2,1.7,3,2.3,3.1,2.6,3.4,3.1,3.3,2.6,3.3,4.2,20
+"152",122,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta","Di atas Rp700.000,00",3,1.8,2.4,3.6,3.8,3.9,2.7,4.2,3.3,4.1,4.8,4.6,26
+"157",91,"Wanita","Belum menikah",">18-28 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.2,3.5,4,3.2,2.1,4.4,3.1,2.1,4,4.3,4.1,4,21
+"158",53,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",2.1,2.9,3,2.7,4,4.1,4.4,4.2,3.3,3.9,4.4,4.2,21
+"159",24,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.2,3.5,4.8,2.1,3.1,2.6,5,2.9,4.9,4.3,5,3.1,23
+"160",213,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",1.9,1.8,3.7,3.3,2.8,2.6,4.1,3.4,4.4,3.5,3.8,4.3,28
+"161",147,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",2.4,2.7,1.6,2.6,3.2,2.6,4.1,3.7,3.6,3.2,3.9,3.8,24
+"162",170,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",1.7,2.2,4,3,4.4,3.6,4,3.2,3.7,3.2,4,4,26
+"163",119,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",2.6,1.8,4.1,3.4,3.5,2.8,3.5,4,3.2,2.8,3,4.2,23
+"164",265,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.9,3,3.3,3.6,2.9,3.1,4.6,4,4.5,4.1,4.4,4.6,26
+"165",256,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.1,3.2,2.9,3.7,2.9,3.6,4.5,4.4,3.4,4,4.8,4.8,25
+"166",292,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",2.8,3,3,2.3,4.4,2.8,3.5,3.3,4.3,3.8,1.7,4.4,20
+"167",204,"Pria","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.9,3.2,2.9,2.2,4.8,2.5,3.4,3.3,4.4,3.8,3.1,4.6,28
+"168",274,"Wanita","Belum menikah",">18-28 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.1,2.8,3.7,3.8,3.8,3.7,3.1,4.6,4.2,4.2,4.9,4.8,18
+"169",285,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",2.4,2.8,3.6,2.9,3.8,2.6,3.4,3.7,3.9,3.3,3.5,4,28
+"171",66,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp500.000,00-Rp700.000,00",2,3.5,3.1,2.7,3.8,3.6,3.7,3.4,4,2.6,3.7,4.1,25
+"172",190,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",2.2,2.9,2.9,2,3.1,3.4,3.8,4.2,4.3,3.6,4.4,3.8,21
+"173",149,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",3,3.2,4.5,3.7,1.5,2.8,4.7,4.4,3,3.5,4.8,3.1,24
+"174",142,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",2.6,2.9,3.4,2.6,3.3,2.7,4,3.2,3.8,3.7,4.4,4.3,19
+"175",234,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Wiraswasta",">Rp100.000,00-Rp300.000,00",1.5,1.7,2.9,3.2,3.1,2.7,3.4,3.1,3.3,2.6,3.3,4.3,19
+"176",93,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",1.6,1.1,2.3,2.5,2.7,2.1,3.2,3,3.3,3.1,2.9,3.7,24
+"177",251,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","lain-lain(pensiunan,petani)",">Rp100.000,00-Rp300.000,00",3.2,3.5,3.7,4,4.3,4.4,2.9,4.1,4.6,4.3,5,4.9,27
+"178",50,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.2,3.5,4.3,1,1,1.4,1,4.1,3.9,3.9,5,4.9,21
+"179",18,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.1,2.7,2.8,3.9,4.3,4.3,4.2,4.6,3,3.6,4.9,4.8,21
+"180",282,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3,3.2,3.1,3.5,3.1,3.5,3.4,3.7,4.4,3.8,3.9,4.2,27
+"194",287,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp300.000,00-Rp500.000,00",3.2,2.7,2.8,2.9,3.1,1.4,3.1,2.8,2,3.4,4.2,1.9,24
+"195",145,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.4,2.7,4.4,3.7,3.9,3.1,3.7,4,3.6,3.1,3.8,2.7,21
+"196",123,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.6,2.9,3.2,2.4,2.7,1.1,4.4,3.8,4.5,3.7,1.8,3.2,23
+"206",81,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.5,3.4,4.2,2.6,4.2,3.8,4.1,3.9,4.2,3.7,4.2,4.2,26
+"212",74,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.9,3,3.6,3.2,4.2,2.1,3,3.6,2.7,3.8,2.3,3.1,18
+"217",62,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",2.4,1.9,2.9,1.9,3.6,2.8,3.7,4,3.6,3.6,3.4,4.4,22
+"218",226,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Wiraswasta","Di atas Rp700.000,00",2.9,2.8,3.5,3,2.8,2.6,3.9,3.5,3.5,2.7,2.5,3.7,21
+"224",98,"Pria","Belum menikah",">18-28 tahun","Akademi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.7,3.4,4.3,3.7,2.1,4.7,5,4.9,3.1,3.8,4.4,3.2,26
+"226",152,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.9,3.8,4.6,4.1,4.7,4.4,3,4.5,4.6,4.1,4.6,4.7,25
+"227",3,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.1,2.1,2.4,2.1,2.9,2.9,3,3.2,3,3.3,3.9,3.4,27
+"228",173,"Wanita","Belum menikah",">18-28 tahun","Akademi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.6,2.5,3.1,2.7,3.3,3,3.3,3.1,3.3,2.7,3.2,3.3,19
+"230",176,"Wanita","Menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",3.3,3.4,3.9,3.6,3.8,2.7,3.2,3.4,3.6,3.2,3.6,3.6,26
+"232",125,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4,2.9,4.3,3.8,3.2,4,4.5,3.8,3.9,3.9,4.5,4.5,27
+"235",151,"Wanita","Menikah",">18-28 tahun","perguruan Tinggi","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",3.1,3.5,4.5,4.1,4.8,3.9,4.2,4.1,4.3,4.1,4.4,4.7,26
+"236",290,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",2.3,2.1,2.2,1.6,2.8,3.1,3.1,3,3.7,2.7,3.2,3.2,18
+"237",21,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp300.000,00-Rp500.000,00",3.4,3.2,4.2,3.4,4.1,4.3,3.9,3.9,4.1,3.9,4.3,4.7,27
+"238",95,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.5,3.7,4.3,4,4.7,3.8,4.5,4,3.9,4,4.3,4.6,20
+"239",297,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.9,3.8,4.4,4.1,4.7,4,4.2,4.1,4.3,4.2,4.3,4.6,24
+"242",33,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.1,3,3.9,3.4,4,3.8,3.9,3.9,4.3,3.8,4.3,4.2,22
+"243",69,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.8,3.6,3.8,3.7,4.4,4.1,4.4,4.3,3.4,3.9,4.4,4.4,18
+"244",38,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.8,3.3,3.6,3.9,4.3,2.8,3,4.2,4.9,4.5,4.4,4.9,20
+"245",106,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.3,4.1,3.4,3.4,3.6,3,2.8,2.8,4.4,3.6,3.9,5,22
+"246",255,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta","Di atas Rp700.000,00",3.7,2.6,2.9,2.4,3.2,1.8,4.9,3.9,3.6,4.4,1,4.4,21
+"247",230,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.1,2.2,4.4,3.2,3.1,4.4,3.1,2.9,4.9,4.5,4.2,4.7,26
+"248",10,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.7,1.6,3.7,1.8,4.5,1.6,3.2,4.1,2.5,1.8,3.6,4.3,26
+"249",207,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.5,3.9,3.7,3.3,3,2,1.3,1.2,2.9,3,2.8,2.5,21
+"250",64,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.9,3.9,4.3,4.3,4.3,3.9,4.9,4.8,4.4,4.5,2.4,4.7,23
+"251",26,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",2.3,2.3,3.1,2.7,3.1,2.9,3.4,3.3,3.4,2.8,3.3,4.3,26
+"252",25,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta","Di atas Rp700.000,00",4.1,2.4,2.5,4,3.8,4.2,2.7,4.4,3.4,4.3,4.8,4.7,18
+"257",214,"Wanita","Belum menikah",">18-28 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.3,4.1,4.1,3.6,2.1,4.7,3.1,2.3,4.1,4.5,4.1,4.1,28
+"258",12,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.2,3.5,3.1,3.1,4,4.4,4.4,4.4,3.4,4.1,4.4,4.3,21
+"259",99,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.3,4.1,4.9,2.5,3.1,2.9,5,3.1,5,4.5,5,3.2,24
+"260",118,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",3,2.4,3.8,3.7,2.8,2.9,4.1,3.6,4.5,3.7,3.8,4.4,20
+"261",117,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.5,3.3,1.7,3,3.2,2.9,4.1,3.9,3.7,3.4,3.9,3.9,18
+"262",55,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.8,2.8,4.1,3.4,4.4,3.9,4,3.4,3.8,3.4,4,4.1,25
+"263",158,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",3.7,2.4,4.2,3.8,3.5,3.1,3.5,4.2,3.3,3,3,4.3,27
+"264",46,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4,3.6,3.4,4,2.9,3.4,4.6,4.2,4.6,4.3,4.4,4.7,24
+"265",136,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",4.2,3.8,3,4.1,2.9,3.9,4.5,4.6,3.5,4.2,4.8,4.9,25
+"266",77,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.9,3.6,3.1,2.7,4.4,3.1,3.5,3.5,4.4,4,1.7,4.5,20
+"267",275,"Pria","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4,3.8,3,2.6,4.8,2.8,3.4,3.5,4.5,4,3.1,4.7,28
+"268",247,"Wanita","Belum menikah",">18-28 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.2,3.4,3.8,4.2,3.8,4,3.1,4.8,4.3,4.4,4.9,4.9,23
+"269",242,"Wanita","Belum menikah",">18-28 tahun","perguruan Tinggi","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.5,3.4,3.7,3.3,3.8,2.9,3.4,3.9,4,3.5,3.5,4.1,24
+"271",283,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp500.000,00-Rp700.000,00",3.1,4.1,3.2,3.1,3.8,3.9,3.7,3.6,4.1,2.8,3.7,4.2,21
+"272",182,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.3,3.5,3,2.4,3.1,3.7,3.8,4.4,4.4,3.8,4.4,3.9,25
+"273",183,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",4.1,3.8,4.6,4.1,1.5,3.1,4.7,4.6,3.1,3.7,4.8,3.2,18
+"274",19,"Wanita","Menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.7,3.5,3.5,3,3.3,3,4,3.4,3.9,3.9,4.4,4.4,21
+"275",235,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Wiraswasta",">Rp100.000,00-Rp300.000,00",2.6,2.3,3,3.6,3.1,3,3.4,3.3,3.4,2.8,3.3,4.4,27
+"276",44,"Pria","Belum menikah",">18-28 tahun","s/d SMU","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",2.7,1.7,2.4,2.9,2.7,2.4,3.2,3.2,3.4,3.3,2.9,3.8,24
+"277",36,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","lain-lain(pensiunan,petani)",">Rp100.000,00-Rp300.000,00",4.3,4.1,3.8,4.4,4.3,4.7,2.9,4.3,4.7,4.5,5,5,20
+"278",233,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.3,4.1,4.4,1.4,1,1.7,1,4.3,4,4.1,5,5,20
+"279",60,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.2,3.3,2.9,4.3,4.3,4.6,4.2,4.8,3.1,3.8,4.9,4.9,19
+"280",250,"Wanita","Belum menikah",">18-28 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.1,3.8,3.2,3.9,3.1,3.8,3.4,3.9,4.5,4,3.9,4.3,20
+"294",121,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp300.000,00-Rp500.000,00",4.3,3.3,2.9,3.3,3.1,1.7,3.1,3,2.1,3.6,4.2,2,24
+"295",241,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.5,3.3,4.5,4.1,3.9,3.4,3.7,4.2,3.7,3.3,3.8,2.8,19
+"296",280,"Pria","Belum menikah",">18-28 tahun","perguruan Tinggi","Pelajar/mahasiswa",">Rp100.000,00-Rp300.000,00",3.7,3.5,3.3,2.8,2.7,1.4,4.4,4,4.6,3.9,1.8,3.3,20
+"3",86,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",3.1,3,3.1,3,3,3,3,3.1,3.1,3.1,3.1,3.1,30
+"4",222,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",4.7,4.7,4.7,4.7,4.4,4.8,4.6,4.7,4.4,4.4,4.5,4.9,37
+"7",56,"Pria","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.4,4,4.9,4.7,3.7,3.5,2.2,2.2,3.3,4.1,2.4,4.8,36
+"9",272,"Pria","Menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",3.8,3.7,3.8,3.7,3.8,3.8,3.9,3.9,3.8,3.8,3.8,3.8,32
+"11",140,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",3.8,3.4,3.4,3.4,2.3,3.1,3.3,3.3,3.8,3.4,2.7,3.4,34
+"15",224,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",4.5,4.3,3.2,4.2,2.9,3.9,3.4,3.5,4.4,4.4,2.9,3,31
+"19",298,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",5,5,4.3,4.3,3.8,4.1,3.3,4.6,4.6,4.5,4.1,4.5,33
+"20",264,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",3.5,4.9,4.9,4.9,4.9,4.9,4.9,4.9,1.1,4.9,4.9,1.1,34
+"22",237,"Pria","Menikah",">28-38 tahun","perguruan Tinggi","Wiraswasta","Di atas Rp700.000,00",3.7,4,4.4,3.7,3.7,3,3.2,4,3.3,3.5,4.4,4.2,33
+"23",84,"Wanita","Menikah",">28-38 tahun","Akademi","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",4.5,4.1,3.7,3.9,4.2,3.4,3.8,4.1,3.9,4.4,4,4.2,34
+"25",299,"Pria","Menikah",">28-38 tahun","perguruan Tinggi","Wiraswasta",">Rp500.000,00-Rp700.000,00",4.2,4.2,3.7,4.6,4.7,4.3,4.4,4.4,4.5,4.7,4.7,4.7,29
+"29",261,"Pria","Menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp500.000,00-Rp700.000,00",4.8,4.7,4.3,4.1,4.2,3.8,3.9,4,4.1,4.1,4.1,3.8,32
+"31",103,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.9,4.2,3.3,4.4,4.4,3.3,4.4,4.5,4.9,4.4,2.8,4.2,31
+"40",164,"Wanita","Belum menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.9,4.9,4.9,4.9,4,4.8,3.8,3.3,3.3,4.9,4.9,4.9,35
+"41",109,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.2,4.9,3.8,3.7,4.2,4.3,3.5,3.7,4.2,3.7,3.8,4.6,35
+"53",205,"Pria","Menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.3,4.3,3.3,4.2,3.3,4.2,3.4,4.3,4.4,5,5,5,30
+"54",63,"Wanita","Menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4,4,2.4,2.9,1.4,2.1,1.8,2.3,3.7,3.7,4.1,4.1,35
+"55",227,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",5,4.9,3.6,4.9,4.2,5,2.7,4.1,4.7,4.9,4.9,5,35
+"56",268,"Pria","Menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.4,4.5,4.5,4.4,4.5,4.5,1.7,3.5,4.6,4.5,1.7,3.5,34
+"81",199,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.7,3.7,3.8,3.5,2.1,2.1,3.1,3.3,3.6,3.2,2.7,3.3,33
+"82",37,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta","Di atas Rp700.000,00",4.3,4.5,4.5,5,2.7,5,4.9,4.5,4.4,4.9,4.4,5,33
+"90",284,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp100.000,00-Rp300.000,00",3.8,4.3,2,2.4,1.8,2.1,1.8,2.4,3.9,4.3,4,3.3,37
+"91",139,"Pria","Menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",3.4,3.3,3.3,4.4,3.2,3.2,4.2,3.5,3.3,3.3,3.4,4.5,30
+"92",153,"Wanita","Belum menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp500.000,00-Rp700.000,00",4.9,4.8,1.2,4.9,1.3,3.1,1.1,1.3,5,3.1,3.2,3.1,31
+"93",49,"Pria","Belum menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.2,4.4,5,5,3.8,5,4.3,4.6,3.8,5,2.6,3,30
+"97",185,"Pria","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",5,3.1,5,5,5,5,3.3,4.9,4.9,4.9,4.9,4.9,33
+"98",189,"Pria","Menikah",">28-38 tahun","perguruan Tinggi","Pegawai Swasta",">Rp500.000,00-Rp700.000,00",4.1,4.1,3.4,4.1,2.9,3.6,3.6,3.6,4.2,4.2,4.1,4.1,36
+"99",120,"Wanita","Belum menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.4,4.8,4,4.6,3.1,4.1,2.9,3,4,4.4,3.9,4.5,33
+"100",212,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Pegawai Swasta","Di atas Rp700.000,00",4.8,4.3,3.7,4.9,4.9,4.2,4.9,4.2,3.2,4.9,4.3,4.9,32
+"103",216,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",1.3,1.5,2.9,2,3,2.4,3,2.8,3,2.4,3.1,3,37
+"104",276,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",2.9,3.2,4.5,3.7,4.4,4.2,4.6,4.4,4.3,3.7,4.5,4.8,35
+"107",160,"Pria","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.6,2.5,4.7,3.7,3.7,2.9,2.2,1.9,3.2,3.4,2.4,4.7,34
+"109",162,"Pria","Menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",2,2.2,3.6,2.7,3.8,3.2,3.9,3.6,3.7,3.1,3.8,3.7,36
+"111",269,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",2,1.9,3.2,2.4,2.3,2.5,3.3,3,3.7,2.7,2.7,3.3,29
+"115",208,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",2.7,2.8,3,3.2,2.9,3.3,3.4,3.2,4.3,3.7,2.9,2.9,30
+"119",102,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",3.2,3.5,4.1,3.3,3.8,3.5,3.3,4.3,4.5,3.8,4.1,4.4,33
+"120",2,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",1.7,3.4,4.7,3.9,4.9,4.3,4.9,4.6,1,4.2,4.9,1,29
+"122",100,"Pria","Menikah",">28-38 tahun","perguruan Tinggi","Wiraswasta","Di atas Rp700.000,00",1.9,2.5,4.2,2.7,3.7,2.4,3.2,3.7,3.2,2.8,4.4,4.1,38
+"123",124,"Wanita","Menikah",">28-38 tahun","Akademi","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",2.7,2.6,3.5,2.9,4.2,2.8,3.8,3.8,3.8,3.7,4,4.1,38
+"125",34,"Pria","Menikah",">28-38 tahun","perguruan Tinggi","Wiraswasta",">Rp500.000,00-Rp700.000,00",2.4,2.7,3.5,3.6,4.7,3.7,4.4,4.1,4.4,4,4.7,4.6,33
+"129",14,"Pria","Menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp500.000,00-Rp700.000,00",3,3.2,4.1,3.1,4.2,3.2,3.9,3.7,4,3.4,4.1,3.7,34
+"131",300,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.1,2.7,3.1,3.4,4.4,2.7,4.4,4.2,4.8,3.7,2.8,4.1,31
+"140",58,"Wanita","Belum menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.1,3.4,4.7,3.9,4,4.2,3.8,3,3.2,4.2,4.9,4.8,32
+"141",229,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.4,3.4,3.6,2.7,4.2,3.7,3.5,3.4,4.1,3,3.8,4.5,37
+"153",197,"Pria","Menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.5,2.8,3.1,3.2,3.3,3.6,3.4,4,4.3,4.3,5,4.9,33
+"154",238,"Wanita","Menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.2,2.5,2.2,1.9,1.4,1.5,1.8,2,3.6,3,4.1,4,29
+"155",249,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.2,3.4,3.4,3.9,4.2,4.4,2.7,3.8,4.6,4.2,4.9,4.9,35
+"156",157,"Pria","Menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",1.6,3,4.3,3.4,4.5,3.9,1.7,3.2,4.5,3.8,1.7,3.4,37
+"181",181,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",1.9,2.2,3.6,2.5,2.1,1.5,3.1,3,3.5,2.5,2.7,3.2,38
+"182",1,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta","Di atas Rp700.000,00",2.5,3,4.3,4,2.7,4.4,4.9,4.2,4.3,4.2,4.4,4.9,35
+"190",271,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp100.000,00-Rp300.000,00",2,2.8,1.8,1.4,1.8,1.5,1.8,2.1,3.8,3.6,4,3.2,31
+"191",85,"Pria","Menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",1.6,1.8,3.1,3.4,3.2,2.6,4.2,3.2,3.2,2.6,3.4,4.4,33
+"192",246,"Wanita","Belum menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp500.000,00-Rp700.000,00",3.1,3.3,1,3.9,1.3,2.5,1.1,1,4.9,2.4,3.2,3,29
+"193",70,"Pria","Belum menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.4,2.9,4.8,4,3.8,4.4,4.3,4.3,3.7,4.3,2.6,2.9,31
+"197",94,"Pria","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.2,1.6,4.8,4,5,4.4,3.3,4.6,4.8,4.2,4.9,4.8,32
+"198",252,"Pria","Menikah",">28-38 tahun","perguruan Tinggi","Pegawai Swasta",">Rp500.000,00-Rp700.000,00",2.3,2.6,3.2,3.1,2.9,3,3.6,3.3,4.1,3.5,4.1,4,30
+"199",116,"Wanita","Belum menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.6,3.3,3.8,3.6,3.1,3.5,2.9,2.7,3.9,3.7,3.9,4.4,30
+"200",54,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Pegawai Swasta","Di atas Rp700.000,00",3,2.8,3.5,3.9,4.9,3.6,4.9,3.9,3.1,4.2,4.3,4.8,36
+"203",27,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",2.4,2.1,3,2.4,3,2.7,3,3,3.1,2.6,3.1,3.1,30
+"204",175,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",4,3.8,4.6,4.1,4.4,4.5,4.6,4.6,4.4,3.9,4.5,4.9,38
+"207",75,"Pria","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.7,3.1,4.8,4.1,3.7,3.2,2.2,2.1,3.3,3.6,2.4,4.8,30
+"209",191,"Pria","Menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",3.1,2.8,3.7,3.1,3.8,3.5,3.9,3.8,3.8,3.3,3.8,3.8,32
+"211",201,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",3.1,2.5,3.3,2.8,2.3,2.8,3.3,3.2,3.8,2.9,2.7,3.4,36
+"215",16,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",3.8,3.4,3.1,3.6,2.9,3.6,3.4,3.4,4.4,3.9,2.9,3,38
+"219",83,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp500.000,00-Rp700.000,00",4.3,4.1,4.2,3.7,3.8,3.8,3.3,4.5,4.6,4,4.1,4.5,33
+"220",131,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",2.8,4,4.8,4.3,4.9,4.6,4.9,4.8,1.1,4.4,4.9,1.1,33
+"222",11,"Pria","Menikah",">28-38 tahun","perguruan Tinggi","Wiraswasta","Di atas Rp700.000,00",3,3.1,4.3,3.1,3.7,2.7,3.2,3.9,3.3,3,4.4,4.2,37
+"223",244,"Wanita","Menikah",">28-38 tahun","Akademi","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",3.8,3.2,3.6,3.3,4.2,3.1,3.8,4,3.9,3.9,4,4.2,31
+"225",141,"Pria","Menikah",">28-38 tahun","perguruan Tinggi","Wiraswasta",">Rp500.000,00-Rp700.000,00",3.5,3.3,3.6,4,4.7,4,4.4,4.3,4.5,4.2,4.7,4.7,37
+"229",144,"Pria","Menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp500.000,00-Rp700.000,00",4.1,3.8,4.2,3.5,4.2,3.5,3.9,3.9,4.1,3.6,4.1,3.8,38
+"231",258,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.2,3.3,3.2,3.8,4.4,3,4.4,4.4,4.9,3.9,2.8,4.2,33
+"240",82,"Wanita","Belum menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.2,4,4.8,4.3,4,4.5,3.8,3.2,3.3,4.4,4.9,4.9,37
+"241",108,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.5,4,3.7,3.1,4.2,4,3.5,3.6,4.2,3.2,3.8,4.6,29
+"253",196,"Pria","Menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.6,3.4,3.2,3.6,3.3,3.9,3.4,4.2,4.4,4.5,5,5,31
+"254",40,"Wanita","Menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.3,3.1,2.3,2.3,1.4,1.8,1.8,2.2,3.7,3.2,4.1,4.1,37
+"255",65,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.3,4,3.5,4.3,4.2,4.7,2.7,4,4.7,4.4,4.9,5,33
+"256",277,"Pria","Menikah",">28-38 tahun","Akademi","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.7,3.6,4.4,3.8,4.5,4.2,1.7,3.4,4.6,4,1.7,3.5,37
+"281",253,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3,2.8,3.7,2.9,2.1,1.8,3.1,3.2,3.6,2.7,2.7,3.3,38
+"282",31,"Wanita","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta","Di atas Rp700.000,00",3.6,3.6,4.4,4.4,2.7,4.7,4.9,4.4,4.4,4.4,4.4,5,38
+"290",260,"Wanita","Menikah",">28-38 tahun","s/d SMU","Ibu rumah tangga",">Rp100.000,00-Rp300.000,00",3.1,3.4,1.9,1.8,1.8,1.8,1.8,2.3,3.9,3.8,4,3.3,32
+"291",57,"Pria","Menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",2.7,2.4,3.2,3.8,3.2,2.9,4.2,3.4,3.3,2.8,3.4,4.5,36
+"292",156,"Wanita","Belum menikah",">28-38 tahun","s/d SMU","Wiraswasta",">Rp500.000,00-Rp700.000,00",4.2,3.9,1.1,4.3,1.3,2.8,1.1,1.2,5,2.6,3.2,3.1,31
+"293",155,"Pria","Belum menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.5,3.5,4.9,4.4,3.8,4.7,4.3,4.5,3.8,4.5,2.6,3,31
+"297",195,"Pria","Menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.3,2.2,4.9,4.4,5,4.7,3.3,4.8,4.9,4.4,4.9,4.9,34
+"298",13,"Pria","Menikah",">28-38 tahun","perguruan Tinggi","Pegawai Swasta",">Rp500.000,00-Rp700.000,00",3.4,3.2,3.3,3.5,2.9,3.3,3.6,3.5,4.2,3.7,4.1,4.1,34
+"299",45,"Wanita","Belum menikah",">28-38 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.7,3.9,3.9,4,3.1,3.8,2.9,2.9,4,3.9,3.9,4.5,33
+"300",47,"Wanita","Menikah",">28-38 tahun","perguruan Tinggi","Pegawai Swasta","Di atas Rp700.000,00",4.1,3.4,3.6,4.3,4.9,3.9,4.9,4.1,3.2,4.4,4.3,4.9,37
+"1",87,"Wanita","Menikah",">38-48 tahun","perguruan Tinggi","Ibu rumah tangga","Di atas Rp700.000,00",3.7,4.3,3,3.3,2.6,3,3.1,3.1,3.1,3.2,3.7,2.4,46
+"2",97,"Wanita","Menikah",">38-48 tahun","s/d SMU","Ibu rumah tangga","Di atas Rp700.000,00",4.6,4.7,4.7,4.6,4.6,4.7,4.6,4.6,4.6,4.6,4.7,4.7,45
+"10",165,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Wiraswasta",">Rp500.000,00-Rp700.000,00",3.7,3.8,3.1,2.7,2.6,2.6,3.7,3.7,3.1,3.9,2.7,3.2,45
+"14",210,"Pria","Menikah",">38-48 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",4,3.9,3.6,4.3,3.2,3.4,3.5,3.7,4.9,4,3.5,3.8,44
+"16",184,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Pegawai Swasta","Di atas Rp700.000,00",4.1,4.2,2.6,3.4,2.4,2,3.9,4.3,3,4.8,4.3,2.4,39
+"21",134,"Wanita","Menikah",">38-48 tahun","s/d SMU","Wiraswasta","Di atas Rp700.000,00",4.4,4.4,4.2,4.2,3.5,2.9,3.5,3.2,3.4,3.4,3.1,3.7,41
+"70",291,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Pegawai Negeri","Di atas Rp700.000,00",4.1,3.6,3,3.4,2.6,3,3.7,4,2.8,4.5,4.5,4.3,41
+"83",257,"Pria","Menikah",">38-48 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.9,4.9,4.9,4.9,3.2,4.9,3.3,3.4,3.4,3.5,4.8,4.8,47
+"84",132,"Wanita","Menikah",">38-48 tahun","s/d SMU","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",4.2,4.2,4,4,4.2,4.1,4.1,4,4,4.1,4.2,4.1,42
+"85",288,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Pegawai Negeri",">Rp500.000,00-Rp700.000,00",4.7,4.4,3.1,3.7,2.2,3.8,4.4,4.4,3.2,4.5,4.8,4.5,44
+"101",198,"Wanita","Menikah",">38-48 tahun","perguruan Tinggi","Ibu rumah tangga","Di atas Rp700.000,00",1.9,2.8,2.8,2.3,2.6,2.4,3.1,2.8,3,2.5,3.7,2.3,41
+"102",68,"Wanita","Menikah",">38-48 tahun","s/d SMU","Ibu rumah tangga","Di atas Rp700.000,00",2.8,3.2,4.5,3.6,4.6,4.1,4.6,4.3,4.5,3.9,4.7,4.6,39
+"110",194,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Wiraswasta",">Rp500.000,00-Rp700.000,00",1.9,2.3,2.9,1.7,2.6,2,3.7,3.4,3,3.2,2.7,3.1,47
+"114",248,"Pria","Menikah",">38-48 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",2.2,2.4,3.4,3.3,3.2,2.8,3.5,3.4,4.8,3.3,3.5,3.7,46
+"116",225,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Pegawai Swasta","Di atas Rp700.000,00",2.3,2.7,2.4,2.4,2.4,1.4,3.9,4,2.9,4.1,4.3,2.3,48
+"121",180,"Wanita","Menikah",">38-48 tahun","s/d SMU","Wiraswasta","Di atas Rp700.000,00",2.6,2.9,4,3.2,3.5,2.3,3.5,2.9,3.3,2.7,3.1,3.6,47
+"170",254,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Pegawai Negeri","Di atas Rp700.000,00",2.3,2.1,2.8,2.4,2.6,2.4,3.7,3.7,2.7,3.8,4.5,4.2,39
+"183",110,"Pria","Menikah",">38-48 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",3.1,3.4,4.7,3.9,3.2,4.3,3.3,3.1,3.3,2.8,4.8,4.7,46
+"184",73,"Wanita","Menikah",">38-48 tahun","s/d SMU","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",2.4,2.7,3.8,3,4.2,3.5,4.1,3.7,3.9,3.4,4.2,4,47
+"185",135,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Pegawai Negeri",">Rp500.000,00-Rp700.000,00",2.9,2.9,2.9,2.7,2.2,3.2,4.4,4.1,3.1,3.8,4.8,4.4,46
+"201",232,"Wanita","Menikah",">38-48 tahun","perguruan Tinggi","Ibu rumah tangga","Di atas Rp700.000,00",3,3.4,2.9,2.7,2.6,2.7,3.1,3,3.1,2.7,3.7,2.4,39
+"202",215,"Wanita","Menikah",">38-48 tahun","s/d SMU","Ibu rumah tangga","Di atas Rp700.000,00",3.9,3.8,4.6,4,4.6,4.4,4.6,4.5,4.6,4.1,4.7,4.7,41
+"210",211,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Wiraswasta",">Rp500.000,00-Rp700.000,00",3,2.9,3,2.1,2.6,2.3,3.7,3.6,3.1,3.4,2.7,3.2,39
+"214",220,"Pria","Menikah",">38-48 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",3.3,3,3.5,3.7,3.2,3.1,3.5,3.6,4.9,3.5,3.5,3.8,42
+"216",107,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Pegawai Swasta","Di atas Rp700.000,00",3.4,3.3,2.5,2.8,2.4,1.7,3.9,4.2,3,4.3,4.3,2.4,39
+"221",15,"Wanita","Menikah",">38-48 tahun","s/d SMU","Wiraswasta","Di atas Rp700.000,00",3.7,3.5,4.1,3.6,3.5,2.6,3.5,3.1,3.4,2.9,3.1,3.7,39
+"270",61,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Pegawai Negeri","Di atas Rp700.000,00",3.4,2.7,2.9,2.8,2.6,2.7,3.7,3.9,2.8,4,4.5,4.3,40
+"283",192,"Pria","Menikah",">38-48 tahun","s/d SMU","Pegawai Swasta",">Rp100.000,00-Rp300.000,00",4.2,4,4.8,4.3,3.2,4.6,3.3,3.3,3.4,3,4.8,4.8,48
+"284",179,"Wanita","Menikah",">38-48 tahun","s/d SMU","Ibu rumah tangga",">Rp300.000,00-Rp500.000,00",3.5,3.3,3.9,3.4,4.2,3.8,4.1,3.9,4,3.6,4.2,4.1,40
+"285",266,"Pria","Menikah",">38-48 tahun","perguruan Tinggi","Pegawai Negeri",">Rp500.000,00-Rp700.000,00",4,3.5,3,3.1,2.2,3.5,4.4,4.3,3.2,4,4.8,4.5,39
+"5",163,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",4.9,3.2,2.2,4.8,3,1.9,3.4,4.8,3.2,4.8,4.7,3.1,62
+"8",8,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Ibu rumah tangga",">Rp100.000,00-Rp300.000,00",3.7,4.4,3.7,2.7,3,3.2,3,3.3,3.4,2.9,2.7,4.2,57
+"13",127,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",3.8,3.4,4.6,4.3,4.4,4.4,4.2,3.4,3.5,4.3,4.5,4.3,54
+"33",171,"Wanita","Menikah","Di atas 48 tahun","Akademi","Wiraswasta",">Rp100.000,00-Rp300.000,00",4.2,4.2,3.5,4.2,3.5,4.1,4.4,3.9,4.4,3.7,3.6,4.2,59
+"34",187,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Pegawai Negeri",">Rp300.000,00-Rp500.000,00",4,4.4,4.5,4.5,4.6,4.6,4.5,4.7,3.5,4.2,4.4,4.5,58
+"86",202,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","lain-lain(pensiunan,petani)","Di atas Rp700.000,00",4.9,4.9,4.4,4.5,3.1,4.7,5,5,3.9,5,5,5,54
+"87",154,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",4.3,3.9,2.7,4.5,2.9,2.2,3.9,4.5,2.8,4.8,4.7,4.6,60
+"88",113,"Pria","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",4.8,4.7,4,4.7,2,3.2,4.7,4.7,3.2,3.2,4.8,3.2,53
+"89",206,"Pria","Menikah","Di atas 48 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",4.6,4.1,3,3.3,2.1,1.6,4.3,4.6,2.8,4.8,3.7,4.5,49
+"105",148,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",3.1,1.7,2,3.8,3,1.3,3.4,4.5,3.1,4.1,4.7,3,55
+"108",281,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Ibu rumah tangga",">Rp100.000,00-Rp300.000,00",1.9,2.9,3.5,1.7,3,2.6,3,3,3.3,2.2,2.7,4.1,61
+"113",296,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",2,1.9,4.4,3.3,4.4,3.8,4.2,3.1,3.4,3.6,4.5,4.2,50
+"133",219,"Wanita","Menikah","Di atas 48 tahun","Akademi","Wiraswasta",">Rp100.000,00-Rp300.000,00",2.4,2.7,3.3,3.2,3.5,3.5,4.4,3.6,4.3,3,3.6,4.1,60
+"134",168,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Pegawai Negeri",">Rp300.000,00-Rp500.000,00",2.2,2.9,4.3,3.5,4.6,4,4.5,4.4,3.4,3.5,4.4,4.4,61
+"186",111,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","lain-lain(pensiunan,petani)","Di atas Rp700.000,00",3.1,3.4,4.2,3.5,3.1,4.1,5,4.7,3.8,4.3,5,4.9,52
+"187",150,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",2.5,2.4,2.5,3.5,2.9,1.6,3.9,4.2,2.7,4.1,4.7,4.5,64
+"188",96,"Pria","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",3,3.2,3.8,3.7,2,2.6,4.7,4.4,3.1,2.5,4.8,3.1,52
+"189",104,"Pria","Menikah","Di atas 48 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",2.8,2.6,2.8,2.3,2.1,1,4.3,4.3,2.7,4.1,3.7,4.4,63
+"205",278,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",4.2,2.3,2.1,4.2,3,1.6,3.4,4.7,3.2,4.3,4.7,3.1,59
+"208",295,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Ibu rumah tangga",">Rp100.000,00-Rp300.000,00",3,3.5,3.6,2.1,3,2.9,3,3.2,3.4,2.4,2.7,4.2,51
+"213",279,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",3.1,2.5,4.5,3.7,4.4,4.1,4.2,3.3,3.5,3.8,4.5,4.3,62
+"233",228,"Wanita","Menikah","Di atas 48 tahun","Akademi","Wiraswasta",">Rp100.000,00-Rp300.000,00",3.5,3.3,3.4,3.6,3.5,3.8,4.4,3.8,4.4,3.2,3.6,4.2,61
+"234",137,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Pegawai Negeri",">Rp300.000,00-Rp500.000,00",3.3,3.5,4.4,3.9,4.6,4.3,4.5,4.6,3.5,3.7,4.4,4.5,52
+"286",270,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","lain-lain(pensiunan,petani)","Di atas Rp700.000,00",4.2,4,4.3,3.9,3.1,4.4,5,4.9,3.9,4.5,5,5,62
+"287",71,"Wanita","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp300.000,00-Rp500.000,00",3.6,3,2.6,3.9,2.9,1.9,3.9,4.4,2.8,4.3,4.7,4.6,53
+"288",92,"Pria","Menikah","Di atas 48 tahun","s/d SMU","Wiraswasta",">Rp100.000,00-Rp300.000,00",4.1,3.8,3.9,4.1,2,2.9,4.7,4.6,3.2,2.7,4.8,3.2,50
+"289",76,"Pria","Menikah","Di atas 48 tahun","s/d SMU","Pegawai Swasta",">Rp300.000,00-Rp500.000,00",3.9,3.2,2.9,2.7,2.1,1.3,4.3,4.5,2.8,4.3,3.7,4.5,57
